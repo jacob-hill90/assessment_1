@@ -41,7 +41,7 @@ def optimal_change(item_cost, amount_paid):
          
         print(dict_of_change_values)
 
-optimal_change(20.31,25)
+optimal_change(100,125)
 
 
 #Very very frustrating, don't have the tools/knowledge to format this sentence correctly. 

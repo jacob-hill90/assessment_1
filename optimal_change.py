@@ -44,7 +44,7 @@ def optimal_change(item_cost, amount_paid):
 optimal_change(20.31,25)
 
 
-#Very very frustrating, don't have the tools/knowledge to format this fucking sentance correctly. 
+#Very very frustrating, don't have the tools/knowledge to format this sentence correctly. 
 
        # if i == '100' or i == '50' or i == '20' or i == '10' or i == '5' or i == '1':
     #     if dict_of_change_values[i] == 1:
